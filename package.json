@@ -1,0 +1,11 @@
+{
+  "name": "indian-gold-price",
+  "version": "1.0.0",
+  "description": "Simple gold price tracker in Rupees",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Franklin Antony",
+  "license": "MIT"
+}
