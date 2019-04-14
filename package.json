@@ -1,12 +1,20 @@
 {
   "name": "indian-gold-price",
   "version": "1.0.0",
-  "description": "Simple gold price tracker in Rupees",
+  "description": " A simple Node.js module to get the current gold price in rupees.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/beingfranklin/Indian-Gold-Price.git"
+  },
   "author": "Franklin Antony",
+    "bugs": {
+        "url": "https://github.com/beingfranklin/Indian-Gold-Price/issues"
+    },
+  "homepage": "https://github.com/beingfranklin/Indian-Gold-Price",
   "license": "MIT",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
