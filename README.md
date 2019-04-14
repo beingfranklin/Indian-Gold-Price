@@ -1,7 +1,7 @@
 # Indian Gold Price
 A simple Node.js module to get the current gold price in rupees.
 
-![Indian Gold Price](https://raw.githubusercontent.com/beingfranklin//Indian-Gold-Price/master/screenshot.png)
+![Indian Gold Price](https://raw.githubusercontent.com/beingfranklin/Indian-Gold-Price/master/screenshot.png)
 
 ### What it Does
 
