@@ -55,7 +55,7 @@ goldrate(function(err,rate){
 
 No tests written so far.
 
-```
+````
 npm install
 //npm test
 ```
