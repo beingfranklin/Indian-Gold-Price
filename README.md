@@ -1,6 +1,6 @@
 # Indian Gold Price
 
-*No longer Updated. As the source is not functional. *
+*No longer Updated. As the source is not functional.*
 
 💰🥇 A simple Node.js module to get the current gold price in rupees.
 
@@ -11,12 +11,11 @@ This module uses the web scraping method to get the latest price of gold from [g
 ### A Quick example
 
 ```JavaScript
-var goldrate = require('indian-gold-price');
+const goldrate = require('indian-gold-price');
 
 goldrate(function(err,rate){
     console.log(rate);
 });
-
 
 ```
 
@@ -40,7 +39,7 @@ Currently there are no options.
 ### Examples:
 
 ```JavaScript
-var goldrate = require('indian-gold-price');
+const goldrate = require('indian-gold-price');
 
 goldrate(function(err,rate){
     console.log(rate); // => { withsymbol: '₹ 31,859', tengram: '31859', onegram: 3185.9 }
