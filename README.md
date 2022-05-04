@@ -1,6 +1,6 @@
 # Indian Gold Price
 
-*No longer Updated. As the source is not functional.*
+**No longer maintained. As the source is not functional.**
 
 💰🥇 A simple Node.js module to get the current gold price in rupees.
 
